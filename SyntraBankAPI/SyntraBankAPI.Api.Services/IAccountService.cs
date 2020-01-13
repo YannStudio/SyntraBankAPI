@@ -8,5 +8,6 @@ namespace SyntraBankAPI.Api.Services
     public interface IAccountService
     {
         IList<Account> GetAllAccounts();
+        void AddNewAccount(Account account);
     }
 }

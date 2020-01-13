@@ -8,5 +8,7 @@ namespace SyntraBankAPI.Api.Repositories
     {
         IList<T> Get();
 
+        bool Create(T item);
+
     }
 }

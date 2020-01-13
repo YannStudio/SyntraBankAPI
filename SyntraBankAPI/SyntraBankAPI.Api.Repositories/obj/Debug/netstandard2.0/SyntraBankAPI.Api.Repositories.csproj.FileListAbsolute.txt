@@ -1,4 +1,11 @@
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\bin\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.deps.json
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\bin\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.dll
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\bin\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.pdb
 C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\bin\Debug\netstandard2.0\SyntraBankAPI.Models.dll
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\bin\Debug\netstandard2.0\SyntraBankAPI.Models.pdb
 C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.csprojAssemblyReference.cache
 C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.AssemblyInfoInputs.cache
 C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.AssemblyInfo.cs
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.csproj.CopyComplete
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.dll
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Repositories\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.pdb

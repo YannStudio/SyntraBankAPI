@@ -8,6 +8,7 @@ namespace SyntraBankAPI.Models
     {
 
         // Properties
+        public int Id { get; set; }
         public string AccountNumber { get; set; }
         public Guid ClientId { get; set; }
         public float Balance { get; set; }

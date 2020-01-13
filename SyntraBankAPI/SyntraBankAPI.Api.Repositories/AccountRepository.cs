@@ -8,7 +8,24 @@ namespace SyntraBankAPI.Api.Repositories
 {
     public class AccountRepository : IRepository<Account>
     {
-        public IList<Account> Get()
+		public bool Create(Account item)
+		{
+			try
+			{
+				var context = new BankDatabaseContext();
+				context.BankAccount.Add(item);
+				context.SaveChanges();
+
+				return true;
+			}
+			catch (Exception)
+			{
+
+				throw;
+			}
+		}
+
+		public IList<Account> Get()
         {
 			try
 			{

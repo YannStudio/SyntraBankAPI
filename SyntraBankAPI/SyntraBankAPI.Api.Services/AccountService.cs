@@ -14,6 +14,11 @@ namespace SyntraBankAPI.Api.Services
             return _accountRepository.Get();
         }
 
+        public void AddNewAccount(Account account)
+        {
+            _accountRepository.Create(account);
+        }
+
         public AccountService(IRepository<Account> accountRepository)
         {
             _accountRepository = accountRepository;

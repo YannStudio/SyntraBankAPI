@@ -1,0 +1,11 @@
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\obj\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.csprojAssemblyReference.cache
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\obj\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.AssemblyInfoInputs.cache
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\obj\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.AssemblyInfo.cs
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\bin\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.exe
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\bin\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.deps.json
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\bin\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.runtimeconfig.json
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\bin\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.runtimeconfig.dev.json
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\bin\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.dll
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\bin\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.pdb
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\obj\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.dll
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Console\obj\Debug\netcoreapp3.1\SyntraBankAPI.Client.Console.pdb

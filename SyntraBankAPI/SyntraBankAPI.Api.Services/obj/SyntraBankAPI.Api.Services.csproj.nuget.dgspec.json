@@ -4,6 +4,86 @@
     "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Services\\SyntraBankAPI.Api.Services.csproj": {}
   },
   "projects": {
+    "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Repositories\\SyntraBankAPI.Api.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Repositories\\SyntraBankAPI.Api.Repositories.csproj",
+        "projectName": "SyntraBankAPI.Api.Repositories",
+        "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Repositories\\SyntraBankAPI.Api.Repositories.csproj",
+        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Services\\SyntraBankAPI.Api.Services.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +92,89 @@
         "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Services\\SyntraBankAPI.Api.Services.csproj",
         "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Repositories\\SyntraBankAPI.Api.Repositories.csproj": {
+                "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Api.Repositories\\SyntraBankAPI.Api.Repositories.csproj"
+              },
+              "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj",
+        "projectName": "SyntraBankAPI.Models",
+        "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj",
+        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -43,6 +206,22 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

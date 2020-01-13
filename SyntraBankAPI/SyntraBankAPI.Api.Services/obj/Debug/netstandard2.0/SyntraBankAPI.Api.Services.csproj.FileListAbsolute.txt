@@ -1,0 +1,5 @@
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Services\bin\Debug\netstandard2.0\SyntraBankAPI.Api.Repositories.dll
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Services\bin\Debug\netstandard2.0\SyntraBankAPI.Models.dll
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Services.csprojAssemblyReference.cache
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Services.AssemblyInfoInputs.cache
+C:\Users\info\source\repos\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Api.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Api.Services.AssemblyInfo.cs

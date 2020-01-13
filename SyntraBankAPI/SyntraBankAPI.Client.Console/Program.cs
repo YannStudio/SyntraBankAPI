@@ -47,24 +47,19 @@ namespace SyntraBankAPI.Client.Console
             return result;
         }
 
-        // Create new bank account
+        // Post and create new bank account through Api client
         static async Task CreateNewAccount(Account account)
         {
             var ClientMessage = ConvertJsonToStringContent(account);
-
             var result = await client.PostAsync(AccountEndpoint, ClientMessage);
         }
 
         //Method to convert any object string content
         static StringContent ConvertJsonToStringContent(Object item)
-        {
-
-            var testObject = JsonConvert.SerializeObject(item);
-
+        {            
+            var testObject = JsonConvert.SerializeObject(item);            
             var stringContent = new StringContent(testObject, System.Text.Encoding.UTF8, "application/json");
-
             return stringContent;
-
         }
 
 

@@ -7,17 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{2522F1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{7F3A15C7-079A-4368-98D6-0E53AAB0D62C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Api", "SyntraBankAPI.Api\SyntraBankAPI.Api.csproj", "{E4E103FA-B158-4A9F-B2F1-E6CA01203C9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyntraBankAPI.Api", "SyntraBankAPI.Api\SyntraBankAPI.Api.csproj", "{E4E103FA-B158-4A9F-B2F1-E6CA01203C9F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{87B58603-7636-440D-991A-F00C6E94A796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Client.Console", "SyntraBankAPI.Client.Console\SyntraBankAPI.Client.Console.csproj", "{0FDA9DDD-35D7-469E-A3C3-40FD9A5AD24A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyntraBankAPI.Client.Console", "SyntraBankAPI.Client.Console\SyntraBankAPI.Client.Console.csproj", "{0FDA9DDD-35D7-469E-A3C3-40FD9A5AD24A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Api.Services", "SyntraBankAPI.Api.Services\SyntraBankAPI.Api.Services.csproj", "{9F21F6EB-0ADF-4C0F-8900-1B0F75CD6FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyntraBankAPI.Api.Services", "SyntraBankAPI.Api.Services\SyntraBankAPI.Api.Services.csproj", "{9F21F6EB-0ADF-4C0F-8900-1B0F75CD6FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Api.Repositories", "SyntraBankAPI.Api.Repositories\SyntraBankAPI.Api.Repositories.csproj", "{EF000CD8-E875-4F5E-9C51-3A6A140608E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyntraBankAPI.Api.Repositories", "SyntraBankAPI.Api.Repositories\SyntraBankAPI.Api.Repositories.csproj", "{EF000CD8-E875-4F5E-9C51-3A6A140608E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Models", "SyntraBankAPI.Models\SyntraBankAPI.Models.csproj", "{E4E58478-C749-43CD-8BB4-21F742F68AD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyntraBankAPI.Models", "SyntraBankAPI.Models\SyntraBankAPI.Models.csproj", "{E4E58478-C749-43CD-8BB4-21F742F68AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Client.Services", "SyntraBankAPI.Client.Services\SyntraBankAPI.Client.Services.csproj", "{46133618-5004-41A2-9D86-537D4602F07F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Client.Repositories", "SyntraBankAPI.Client.Repositories\SyntraBankAPI.Client.Repositories.csproj", "{D4031712-9DCC-4DDE-8958-880A6E0C1C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntraBankAPI.Client.WPF", "SyntraBankAPI.Client.WPF\SyntraBankAPI.Client.WPF.csproj", "{32F1C2CB-125A-4805-BFFB-D253B46CCAFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{E4E58478-C749-43CD-8BB4-21F742F68AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E58478-C749-43CD-8BB4-21F742F68AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E58478-C749-43CD-8BB4-21F742F68AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46133618-5004-41A2-9D86-537D4602F07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46133618-5004-41A2-9D86-537D4602F07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46133618-5004-41A2-9D86-537D4602F07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46133618-5004-41A2-9D86-537D4602F07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4031712-9DCC-4DDE-8958-880A6E0C1C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4031712-9DCC-4DDE-8958-880A6E0C1C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4031712-9DCC-4DDE-8958-880A6E0C1C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4031712-9DCC-4DDE-8958-880A6E0C1C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F1C2CB-125A-4805-BFFB-D253B46CCAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F1C2CB-125A-4805-BFFB-D253B46CCAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F1C2CB-125A-4805-BFFB-D253B46CCAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F1C2CB-125A-4805-BFFB-D253B46CCAFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +73,9 @@ Global
 		{9F21F6EB-0ADF-4C0F-8900-1B0F75CD6FF5} = {7F3A15C7-079A-4368-98D6-0E53AAB0D62C}
 		{EF000CD8-E875-4F5E-9C51-3A6A140608E9} = {7F3A15C7-079A-4368-98D6-0E53AAB0D62C}
 		{E4E58478-C749-43CD-8BB4-21F742F68AD4} = {87B58603-7636-440D-991A-F00C6E94A796}
+		{46133618-5004-41A2-9D86-537D4602F07F} = {2522F167-8589-48F5-870D-C7E6449465CD}
+		{D4031712-9DCC-4DDE-8958-880A6E0C1C62} = {2522F167-8589-48F5-870D-C7E6449465CD}
+		{32F1C2CB-125A-4805-BFFB-D253B46CCAFB} = {2522F167-8589-48F5-870D-C7E6449465CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2B4DABC5-A24E-4B46-BCA3-B3C47E1D7177}

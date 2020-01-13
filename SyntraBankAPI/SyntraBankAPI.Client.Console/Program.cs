@@ -19,17 +19,32 @@ namespace SyntraBankAPI.Client.Console
             System.Console.WriteLine("Geef uw balans in?");
             NewAccount.Balance = float.Parse(System.Console.ReadLine());
 
-            NewAccount.AccountNumber = "BE1234567890";
+            NewAccount.AccountNumber = RandomBankAccountNumber();
             NewAccount.ClientId = Guid.NewGuid();
 
             JsonSerializerOptions options = new JsonSerializerOptions();
             options.PropertyNameCaseInsensitive = true;
 
-
-            
             await CreateNewAccount(NewAccount);
                        
 
+        }
+
+        // Create random bank account number
+
+        static string RandomBankAccountNumber()
+        {
+            string result = "BE";
+            Random r = new Random();
+            int number;
+
+            for (int i = 0; i < 14; i++)
+            {
+                number = r.Next(10);
+                result = result + number.ToString();
+            }
+
+            return result;
         }
 
         // Create new bank account

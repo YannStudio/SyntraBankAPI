@@ -20,6 +20,7 @@ namespace SyntraBankAPI.Api.Controllers
             _accountService = accountService;
         }
 
+        //Api get method to get all bank account
         [HttpGet]
         public IActionResult Get()
         {
@@ -27,6 +28,7 @@ namespace SyntraBankAPI.Api.Controllers
             return Ok(accounts.ToArray());
         }
 
+        //Api post method to create a new bank account
         [HttpPost]
         public IActionResult CreateNewAccount(Account item)
         {

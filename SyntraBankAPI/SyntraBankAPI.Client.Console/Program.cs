@@ -9,6 +9,7 @@ namespace SyntraBankAPI.Client.Console
 {
     class Program
     {
+        //New HTTP client and Api endpoint
         static HttpClient client = new HttpClient();
         static string AccountEndpoint = "https://localhost:44364/api/v1/Account";
 
@@ -31,7 +32,6 @@ namespace SyntraBankAPI.Client.Console
         }
 
         // Create random bank account number
-
         static string RandomBankAccountNumber()
         {
             string result = "BE";

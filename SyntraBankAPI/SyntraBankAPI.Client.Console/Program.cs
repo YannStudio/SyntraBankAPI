@@ -45,7 +45,8 @@ namespace SyntraBankAPI.Client.Console
             var result = System.Console.ReadLine();
             return Convert.ToInt32(result);
         }
-
+        
+        //Add new account 
         static async void AddNewAccount()
         {
             Account NewAccount = new Account();

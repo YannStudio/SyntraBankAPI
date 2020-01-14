@@ -1,4 +1,4 @@
-![](https://i.imgur.com/C0y2OPo.png)  
+![](https://i.imgur.com/9uYcjk4.png)  
 
 An unofficial Syntra Bank API 
 

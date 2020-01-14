@@ -1,4 +1,5 @@
-![](https://i.imgur.com/C0y2OPo.png)
+![](https://i.imgur.com/C0y2OPo.png)  
+
 An unofficial Syntra Bank API 
 
 - Manage bankaccount:

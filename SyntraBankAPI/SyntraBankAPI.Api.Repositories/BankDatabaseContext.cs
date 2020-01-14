@@ -14,8 +14,8 @@ namespace SyntraBankAPI.Api.Repositories
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"server=DESKTOP-SVE1DI5\YANNSTUDIO_01; database=SyntraBank.Database; Integrated Security=true");
-            //optionsBuilder.UseSqlServer(@"server=DESKTOP-SVE1DI5\YANNSTUDIO_01; database=VodHopper.Database; Integrated Security=true");
+            //optionsBuilder.UseSqlServer(@"server=DESKTOP-SVE1DI5\YANNSTUDIO_01; database=SyntraBank.Database; Integrated Security=true");
+            optionsBuilder.UseSqlServer(@"server=DWDBNB-008\SAMSQL; database=SyntraBank.Database; Integrated Security=true");
 
             base.OnConfiguring(optionsBuilder);
         }

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj": {}
+    "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj": {
+    "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj",
+        "projectUniqueName": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj",
         "projectName": "SyntraBankAPI.Client.Console",
-        "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj",
-        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\obj\\",
+        "projectPath": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\SyntraBankAPI.Client.Console.csproj",
+        "packagesPath": "C:\\Users\\sam.haekens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sam.haekens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj": {
-                "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj"
+              "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj"
               }
             }
           }
@@ -102,21 +101,20 @@
         }
       }
     },
-    "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj": {
+    "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj",
+        "projectUniqueName": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj",
         "projectName": "SyntraBankAPI.Models",
-        "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj",
-        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\obj\\",
+        "projectPath": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\SyntraBankAPI.Models.csproj",
+        "packagesPath": "C:\\Users\\sam.haekens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sam.haekens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

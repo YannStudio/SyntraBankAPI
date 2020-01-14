@@ -1,0 +1,8 @@
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\bin\Debug\netstandard2.0\SyntraBankAPI.Client.Services.deps.json
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\bin\Debug\netstandard2.0\SyntraBankAPI.Client.Services.dll
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\bin\Debug\netstandard2.0\SyntraBankAPI.Client.Services.pdb
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Client.Services.csprojAssemblyReference.cache
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Client.Services.AssemblyInfoInputs.cache
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Client.Services.AssemblyInfo.cs
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Client.Services.dll
+C:\Users\sam.haekens\Documents\!!Syntra BankAPI\SyntraBankAPI\SyntraBankAPI\SyntraBankAPI.Client.Services\obj\Debug\netstandard2.0\SyntraBankAPI.Client.Services.pdb

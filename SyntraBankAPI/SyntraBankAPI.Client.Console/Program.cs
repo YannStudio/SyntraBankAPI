@@ -15,6 +15,40 @@ namespace SyntraBankAPI.Client.Console
 
         static async Task Main(string[] args)
         {
+            JsonSerializerOptions options = new JsonSerializerOptions();
+            options.PropertyNameCaseInsensitive = true;
+
+            System.Console.WriteLine("Welcome to the Syntra BANK!");
+            System.Console.WriteLine("===========================");
+
+            int userInput = 0;
+            do
+            {
+                userInput = DisplayMenu();
+
+                if (userInput == 1)
+                {
+                    AddNewAccount();
+                }
+
+            } while (userInput != 3);
+        }
+
+        // Display menu
+        static public int DisplayMenu()
+        {
+            System.Console.Clear();
+            System.Console.WriteLine("Please select an option from the menu: ");
+            System.Console.WriteLine("=======================================");
+            System.Console.WriteLine("1. Create new account.\n" + "2. Show account balance.\n" + "3. Exit");
+
+            var result = System.Console.ReadLine();
+            return Convert.ToInt32(result);
+        }
+        
+        //Add new account 
+        static async void AddNewAccount()
+        {
             Account NewAccount = new Account();
 
             System.Console.WriteLine("Geef uw balans in?");
@@ -23,11 +57,7 @@ namespace SyntraBankAPI.Client.Console
             NewAccount.AccountNumber = RandomBankAccountNumber();
             NewAccount.ClientId = Guid.NewGuid();
 
-            JsonSerializerOptions options = new JsonSerializerOptions();
-            options.PropertyNameCaseInsensitive = true;
-
             await CreateNewAccount(NewAccount);
-                       
 
         }
 

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj": {}
+    "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj": {
+    "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj",
         "projectName": "SyntraBankAPI.Client.Repositories",
-        "projectPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj",
-        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\info\\source\\repos\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\SyntraBankAPI.Client.Repositories.csproj",
+        "packagesPath": "C:\\Users\\sam.haekens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam.haekens\\Documents\\!!Syntra BankAPI\\SyntraBankAPI\\SyntraBankAPI\\SyntraBankAPI.Client.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sam.haekens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

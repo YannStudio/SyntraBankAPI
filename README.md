@@ -1,8 +1,5 @@
-# SyntraBankAPI
+![](https://i.imgur.com/C0y2OPo.png)
 An unofficial Syntra Bank API 
-
-![Logo](https://imgur.com/C0y2OPo)
-
 
 - Manage bankaccount:
   - Open a new bankaccount => POST
